@@ -23,7 +23,7 @@ You can find signed binary releases at [Releases](https://github.com/Arctium/WoW
 ## Building
 
 ### Build Prerequisites
-* [.NET Core SDK 6.0.0 or later](https://dotnet.microsoft.com/download/dotnet/6.0)
+* [.NET 7 SDK](https://dotnet.microsoft.com/download/dotnet/7.0)
 * Optional for native builds: C++ workload through Visual Studio 2022 or latest C++ build tools
 
 ### Build Instructions Windows (native)
