@@ -32,9 +32,9 @@ If you need any of the above, please use the full-featured launcher
 ## Supported Clients
 | Client Branch | Min Supported Version | Max Supported Version |
 |-------------------------|------------|------------|
-| Mainline                | 10.1.5     | **\*** |
+| Mainline                | 10.1.5     | **12.0.5** |
 | Classic Era             | 1.14.4     | **\*** |
-| Classic                 | 3.4.2      | **\*** |
+| Classic                 | 3.4.2      | **5.5.3** |
 | Classic Anniversary     | 2.5.5      | **\*** |
 | Classic Titan           | 3.80.0     | **\*** |
 
